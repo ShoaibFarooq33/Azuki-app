@@ -1,0 +1,458 @@
+[
+  {
+    "main_image": "/Images/toshi.png",
+    "color": "#bb3747",
+    "heading": "Toshi",
+    "image1": "/Images/red.png",
+    "fontColor": "text-white",
+    "para1": " Red BEANZ bring positive vibes to the garden. Most of them are helpful sidekicks, and even the most maverick ones are dedicated  to fighting for the garden.",
+    "para2": "Toshi is a natural-born leader who loves to laugh. Easygoing and confident, he a friend that you can always rely on, through good  times and bad.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "RED BEAN",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "DOTS",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "SMILE",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "IKZ HOODIE UP",
+        "image": "/Images/Clothing.png"
+      },
+      {
+        "name": "Hand:",
+        "title": "Hand",
+        "image": "/Images/Hand.png"
+      },
+      {
+        "name": "Headgear:",
+        "title": "BEAN BASEBALL CAP",
+        "image": "/Images/Headgear.png"
+      },
+      {
+        "name": "Shoe:",
+        "title": "BLACK HIGH TOPS",
+        "image": "/Images/Shoe.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/gus.png",
+    "color": "#0167bc",
+    "heading": "Gus",
+    "fontColor": "text-white",
+    "image1": "/Images/blue.png",
+    "para1": "Blue BEANZ are a menace to all. They love to troll and cause trouble whenever they can. You won't find a better partner-in-crime (or a more annoying prankster).",
+    "para2": "Gus can't seem to stay out of trouble. If you hear an Azuki yell out in anger, most likely you'd see this little fellow scurrying away gleefully. Love him or hate him, life would simply be boring without Gus around!",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "BLUE BEAN",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "STARE",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "ANGRY",
+        "image": "/Images/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "GUS",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Face:",
+        "title": "NOSTRIL - STUBBLES",
+        "image": "/Images/Face.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "OLIVE BOMBER OVER HOODIE",
+        "image": "/Images/Clothing.png"
+      },
+      {
+        "name": "Offhand:",
+        "title": "SPRAY PAINT",
+        "image": "/Images/Offhand.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/tao.png",
+    "color": "#E16B4A",
+    "heading": "Tao",
+    "fontColor": "text-white",
+    "image1": "/Images/lentil.png",
+    "para1": "Lentils are tough, skilled, and aggressive fighters. These BEANZ are trained to kick ass from the day they sprout. Better to have a lentil friend than a lentil foe",
+    "para2": "Tao has a short fuse, and it doesn't take much to anger her. Her brothers and sister are all fighters, meaning that family reunions can become all-out brawls! With her warrior instincts and sharp blade, you'd be wise not to cross her.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "LENTIL",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "HALF-OPEN",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "DETERMINED",
+        "image": "/Images/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "uwu",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Face:",
+        "title": "GREEN YUKATA",
+        "image": "/Images/Face.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "POINTY STRAW HAT",
+        "image": "/Images/Clothing.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/link.png",
+    "color": "#423E4D",
+    "heading": "Link",
+    "fontColor": "text-white",
+    "image1": "/Images/lentil.png",
+    "para1": "Black BEANZ are intelligent and curious by nature. These BEANZ never stop learning and always have something insightful to share.",
+    "para2": "Link is very intellectually curious and can often be found tapping away on her laptop. Highly analytical, she has a keen eye for detail and a near photographic memory.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "BLACK BEAN",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "DOTS",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "BIG GLASSES",
+        "image": "/Images/Face.png"
+      },
+      {
+        "name": "Headgear:",
+        "title": "BEANIE",
+        "image": "/Images/Headgear.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/johnny.png",
+    "color": "#6E4745",
+    "heading": "Johnny G.",
+    "fontColor": "text-white",
+    "image1": "/Images/coffee.png",
+    "para1": "Coffee BEANZ are the life of the party. They never seem to get tired and are always up for a good time.",
+    "para2": "Johnny Grind is full of chaotic energy. Always with a cup of coffee in hand, he tends to drive the other BEANZ a little crazy. He means well, but the other BEANZ sometimes wish he'd take it down a notch (or five).",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "COFFEE BEAN",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "SLEEP-DEPRIVED",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Eyebrows:",
+        "title": "BUSHY",
+        "image": "/Images/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "WIDE TOOTHY SMILE",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "WHITE BUSINESS ATTIRE",
+        "image": "/Images/Clothing.png"
+      },
+      {
+        "name": "Offhand:",
+        "title": "COFFEE CUP",
+        "image": "/Images/Offhand.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/penny.png",
+    "color": "#DBC1B0",
+    "heading": "Penny",
+    "image1": "/Images/pinto.png",
+    "fontColor": "text-black",
+    "iconColor": "fill-black",
+    "para1": "Pinto BEANZ are wacky oddballs. They have truly eccentric personalities and aren't afraid to be a little different .",
+    "para2": "Penny is... unique. She doesn't need others for entertainment, she does just fine entertaining herself. She runs about muttering and squeaking randomly. No one is sure what goes through Penny's mind, but she seems happy.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "PINTO BEAN",
+        "image": "/Images/black/Type-black.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": ":O",
+        "image": "/Images/black/Mouth-black.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "STARE",
+        "image": "/Images/black/Eyes-black.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "YELLOW SCRUNCHED HOODIE",
+        "image": "/Images/black/Clothing-black.png"
+      },
+      {
+        "name": "Hand:",
+        "title": "SAKE",
+        "image": "/Images/black/Hand-black.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/pip.png",
+    "color": "#F5ECDF",
+    "heading": "Pip",
+    "fontColor": "text-black",
+    "iconColor": "fill-black",
+    "image1": "/Images/blackeye.png",
+    "para1": "Black eyed peas are mostly quiet and introverted. Even when they don't say much, they speak volumes.",
+    "para2": "Pip is the happiest when she's by herself. She enjoys solitude yet still likes to hang out with a close-knit group of friends from time to time. Pip is a bean of few words, but when she speaks, she's full of wisdom.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "BLACK EYED PEA",
+        "image": "/Images/black/Type-black.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "CLOSED",
+        "image": "/Images/black/Eyes-black.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "SMILE",
+        "image": "/Images/black/Mouth-black.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "OVERSIZED BLUE T-SHIRT WITH WHITE CROSS-BODY BAG",
+        "image": "/Images/black/Clothing-black.png"
+      },
+      {
+        "name": "Headgear:",
+        "title": "CAT HEADPHONES",
+        "image": "/Images/black/Headgear-black.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/ed.png",
+    "color": "#40A49B",
+    "heading": "ed",
+    "fontColor": "text-white",
+    "image1": "/Images/edamame.png",
+    "para1": "Edamame BEANZ love to work out! They are great workout buddies, personal trainers, and endurance athletes.",
+    "para2": "Ed never skips leg day. He's the happiest when working out with other edamame beefcakes at the gym, ripping sets, and getting shredded. If there's a mirror around, you bet Ed is going to check out his guns because he works hard for that bean bod!",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "EDAMAME",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "STARE",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Eyebrows:",
+        "title": "DETERMINED",
+        "image": "/Images/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": ":C",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "BLACK TANK TOP",
+        "image": "/Images/Clothing.png"
+      },
+      {
+        "name": "Hand:",
+        "title": "Dumbbell",
+        "image": "/Images/Hand.png"
+      },
+      {
+        "name": "Offhand:",
+        "title": "Dumbbell",
+        "image": "/Images/Offhand.png"
+      },
+      {
+        "name": "Headgear:",
+        "title": "SWEATBAND",
+        "image": "/Images/Headgear.png"
+      },
+      {
+        "name": "Shoe:",
+        "title": "YELLOW KICKS",
+        "image": "/Images/Shoe.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/frida.png",
+    "color": "#FFAFD2",
+    "heading": "frida",
+    "fontColor": "text-black",
+    "iconColor": "fill-black",
+    "image1": "/Images/tutti.png",
+    "para1": "For a creative few, the world is their canvas. Jelly BEANZ are often creatives, artists, writers, and musicians.",
+    "para2": "Frida is a creative force who finds inspiration in the most unlikely places. Although drawing is her first love, she also has a musical side. Her art brims with color, joy, and life - just like Frida herself!",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "Jelly Bean",
+        "image": "/Images/black/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "Lashes",
+        "image": "/Images/black/Eyes.png"
+      },
+      {
+        "name": "Eyebrows:",
+        "title": "Surprised",
+        "image": "/Images/black/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "Smile",
+        "image": "/Images/black/Mouth.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "Jacket and Rainbow Scarf",
+        "image": "/Images/black/Clothing.png"
+      },
+      {
+        "name": "Offhand:",
+        "title": "Pencil",
+        "image": "/Images/black/Offhand.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/sun.png",
+    "color": "#E5B338",
+    "heading": "sun",
+    "fontColor": "text-white",
+    "image1": "/Images/gold.png",
+    "para1": "Gold BEANZ are shiny warrior guardians, rarely spotted amidst the lush foliage of the garden.",
+    "para2": "Legends tell of a tiny gold warrior with impressive fighting abilities. Even though he loves the spotlight, he is a fiercely loyal companion who will always have your back.",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "Gold",
+        "image": "/Images/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "Dots",
+        "image": "/Images/Eyes.png"
+      },
+      {
+        "name": "Eyebrows:",
+        "title": "Angry",
+        "image": "/Images/Eyebrows.png"
+      },
+      {
+        "name": "Mouth:",
+        "title": "Monkey King Crown",
+        "image": "/Images/Mouth.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "Monkey King Vest",
+        "image": "/Images/Clothing.png"
+      },
+      {
+        "name": "Offhand:",
+        "title": "Monkey King Staff",
+        "image": "/Images/Offhand.png"
+      }
+    ]
+  },
+  {
+    "main_image": "/Images/kami.png",
+    "color": "#8BACC1",
+    "heading": "Kami",
+    "image1": "/Images/spirit.png",
+    "para1": "We don't know much about them… but looks rare...",
+    "para2": "???",
+    "fontColor": "text-black",
+    "iconColor": "fill-black",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley...",
+    "imageList": [
+      {
+        "name": "Type:",
+        "title": "Spirit",
+        "image": "/Images/black/Type.png"
+      },
+      {
+        "name": "Eyes:",
+        "title": "Spirit - Determined",
+        "image": "/Images/black/Eyes.png"
+      },
+      {
+        "name": "Clothing:",
+        "title": "Kami",
+        "image": "/Images/black/Clothing.png"
+      }
+    ]
+  }
+]

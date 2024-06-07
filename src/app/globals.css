@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+@font-face {
+  font-family: 'pixelfont';
+  src: url('/path/to/pixelfont.woff2') format('woff2'),
+    url('/path/to/pixelfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dotted';
+  src: url('/fonts/Codystar-Light.ttf') format('truetype');
+  src: url('/fonts/Dotted.ttf') format('truetype');
+  src: url('/fonts/Codystar-Regular.ttf') format('truetype');
+}
+.dotted-text {
+  font-family: 'Dotted', sans-serif;
+}
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.square-btn-white-tp:hover {
+  border-color: hsla(0, 0%, 100%, 0.15);
+  background-color: hsla(0, 0%, 100%, 0.15);
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.square-btn-white-tp {
+  box-sizing: border-box;
+  display: flex;
+  height: 3rem;
+  align-items: center;
+  font-family: SB, MBP, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22px;
+  justify-content: center;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-size: 1rem;
+  color: white !important;
+  border-color: #3a3a3a !important;
+  text-transform: uppercase;
+  background-color: #3a3a3a !important;
+  border-radius: 25px;
+}
+.gap-3 {
+  gap: 0.75rem;
+}
+
+.continer_color {
+  background-color: #2f2f2f;
+}
+.continer_text_color {
+  background-color: #4e4e4e;
+}
+
+.ImageCarousel_pagination__8hjO5 > li {
+  list-style: none;
+  height: 65px !important;
+  width: 3px !important;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.ImageCarousel_main_class__uXHvW {
+  max-width: 58% !important;
+  margin-left: 27% !important;
+  height: auto !important;
+  margin-top: 44% !important;
+}
+.ImageCarousel_page__tfo_b {
+  overflow: hidden !important;
+}
+
+/* Custom styles for Ant Design Carousel */
+/* .ant-carousel .slick-dots {
+  width: 7% !important;
+}
+.slick-dots {
+  width: 7% !important;
+}
+.ant-carousel .slick-dots li {
+  width: 7% !important;
+} */
+
+.ant-carousel .slick-dots li button {
+  /* Hide default dot */
+  display: none;
+}
+:where(.css-dev-only-do-not-override-j9bb5n).ant-carousel .slick-dots li {
+  width: 6% !important;
+}
+/* :where(.css-dev-only-do-not-override-j9bb5n).ant-carousel .slick-dots li {
+  width: 6% !important;
+}
+.slick-prev {
+  right: 50px !important; 
+}
+
+.slick-next {
+  right: 50px !important; 
+} */

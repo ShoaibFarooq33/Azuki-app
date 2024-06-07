@@ -1,0 +1,26 @@
+[
+  {
+    "src": "/Images/1.png",
+    "color":"#3b82f680",
+    "heading": "FROM THE GARDEN  TO THE ALLEY",
+    "description": "A small species that sprouts from the dirt in the garden. While they're earnestly driven by the desire to help their Azuki friends, some BEANZ simply can't resist the allure of the alley..."
+  },
+  {
+    "src": "/Images/2.png",
+    "color":"#bc384880",
+    "heading": "(ALMOST) ALWAYS BY YOUR SIDE",
+    "description": "Some like to be a sidekick, but others enjoy kicking it alone."
+  },
+  {
+    "src": "/Images/3.png",
+    "color":"#3be3f680",
+    "heading": "FOR BETTER... OR WORSE",
+    "description": "Being helpful is in their DNA, but some have a slightly different definition of “helpful”..."
+  },
+  {
+    "src": "",
+    "color":"#1a1a1a80",
+    "heading": "FOR BETTER... OR WORSE",
+    "description": "Being helpful is in their DNA, but some have a slightly different definition of “helpful”..."
+  }
+]

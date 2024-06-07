@@ -1,0 +1,25 @@
+/* Custom styles for Ant Design Carousel */
+.ant-carousel .slick-dots {
+  width: 7% !important;
+}
+.slick-dots {
+  width: 7% !important;
+}
+.ant-carousel .slick-dots li {
+  width: 7% !important;
+}
+
+.ant-carousel .slick-dots li button {
+  /* Hide default dot */
+  display: none;
+}
+:where(.css-dev-only-do-not-override-j9bb5n).ant-carousel .slick-dots li {
+  width: 7% !important;
+}
+
+.custom-dot:hover {
+  /* Define hover styles */
+  /* For example, change opacity */
+  opacity: 0.7;
+  /* transition: width 0.3s ease; */
+}
